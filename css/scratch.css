@@ -1,0 +1,22 @@
+.menu {
+    color:rgb(0, 0, 0) !important;
+    text-align: center;
+    font-size: 20px;
+    word-spacing: 50px;
+}
+
+.tableau {
+    display: flex;
+    justify-content: center;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    padding: 30px;
+}
+
+body {
+    background-color: orange;
+    font-family: Arial, Helvetica, sans-serif;
+}
